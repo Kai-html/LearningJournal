@@ -1,0 +1,23 @@
+<style>
+    .try{
+        color:blue;   
+    }
+    body{
+        background-color:lightslategray;
+    }
+    .h{
+        color:midnightblue;
+        font-size: 30px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    .p{
+        color:midnightblue;
+        font-size:22px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    pre{
+        border-right: 400px solid rgba(0, 0, 0, 0.582);
+    }
+/* need to put a header so it looks more organized */
+/* find a way to get my text spaced closer together, between the days and the text corresponding to it. */
+</style>
